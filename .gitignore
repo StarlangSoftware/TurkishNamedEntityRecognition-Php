@@ -1,0 +1,8 @@
+/vendor/
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/namedentityrecognition.iml
+/.idea/php.xml
+/.idea/phpspec.xml
+/.idea/vcs.xml
+/.idea/php-test-framework.xml
