@@ -27,7 +27,7 @@ Video Lectures
 For Developers
 ============
 
-You can also see [Java](https://github.com/starlangsoftware/TurkishNamedEntityRecognition), [Python](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Py), [Cython](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Cy), [Js](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Js), [C#](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-CS), [Swift](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Swift), or [C++](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-CPP) repository.
+You can also see [Java](https://github.com/starlangsoftware/TurkishNamedEntityRecognition), [Python](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Py), [Cython](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Cy), [Js](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Js), [C#](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-CS), [Swift](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-Swift), [C](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-C), or [C++](https://github.com/starlangsoftware/TurkishNamedEntityRecognition-CPP) repository.
 
 ## Requirements
 
